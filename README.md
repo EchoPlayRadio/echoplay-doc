@@ -31,13 +31,9 @@ No compite, acompaña: es una herramienta para cuando más se la necesita.
 ## 🤝 Apoyo
 
 Este proyecto no tiene sponsors. Se sostiene con tiempo, pruebas y comunidad.  
-Podés apoyar en Ko-fi y Mercado Pago (AR):
+Podés apoyar en Ko-fi:
 
-- 🌍 Internacional:  
-  [![Apoyá en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juanpabloflores)
-
-- 🇦🇷 Argentina:  
-  [![Apoyá en Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-Apoyar-blue)](https://link.mercadopago.com.ar/cybertronicsacint)
+-  [![Apoyá en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juanpabloflores)
 
 ---
 
