@@ -1,7 +1,7 @@
 # Términos de uso de EchoPlay  
 © 2025 Juan. Todos los derechos reservados.
 
-EchoPlay nació como concepto en 2020, explorando automatización en C++.  
+EchoPlay nació como concepto en 2024, explorando automatización en C++.  
 Desde abril de 2025, se reconstruye como herramienta web ética y resiliente.
 
 Este software es propiedad exclusiva de su autor.
